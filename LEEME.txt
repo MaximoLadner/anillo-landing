@@ -1,0 +1,9 @@
+SELENE — Opal Atelier (landing demo)
+
+Cómo verla: doble clic en index.html (se abre en el navegador).
+Necesita internet para las tipografías (Google Fonts) y las librerías GSAP y Lenis.
+
+Para grabar el video: pantalla completa (F11), scroll lento con la rueda o el trackpad.
+Al final, en la galería, hacé clic en un anillo para abrir su vista de detalle.
+
+img/ trae cada foto en 2400px y 1400px (WebP). La página elige sola según la pantalla.
